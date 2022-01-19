@@ -1,5 +1,12 @@
 # A3-preset-analyzer
 Compares installed mods with mods used in saved presets and outputs IDs of unused mods in the console and in a CSV file
+The Mod-IDs can be used to find the Steam Workshop site via the link 
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=%copyIDhere%
+
+Sadly, an automatic search in the Steam Workshop is way to much effort for this small project. 
+
+If you want to continue and improve my code, feel free to do so, but please follow the GNU GPL v3 license and credit me for the base code. 
 
 Usage: 
 
