@@ -5,8 +5,6 @@ Usage:
 
 python.exe preset-analyzer.py X:\Path\to\steamapps\workshop
 
-
-
 Programmed and tested on: 
 
 Python 3.9.10 on Windows 10 Pro
@@ -18,3 +16,5 @@ Launcher version: 1.5.148470
 Game version: 2.06.148470
 
 Branch: main / beta branch not specified
+
+For any problems please open an issue here on Github. I'll try to fix it as soon as possible.
