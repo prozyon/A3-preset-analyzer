@@ -6,11 +6,17 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=%copyIDhere%
 
 Sadly, an automatic search in the Steam Workshop is way to much effort for this small project. 
 
-If you want to continue and improve my code, feel free to do so, but please follow the GNU GPL v3 license and credit me for the base code. 
+------------------------------------------------------------------------------------------------
+
+If you want to continue and improve my code, feel free to do so, but please follow and respect the condittions of the GNU GPL v3 license.
+
+------------------------------------------------------------------------------------------------
 
 Usage: 
 
 python.exe preset-analyzer.py X:\Path\to\steamapps\workshop
+
+------------------------------------------------------------------------------------------------
 
 Programmed and tested on: 
 
