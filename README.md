@@ -1,5 +1,5 @@
-# A3-preset-analyzer
-Compares installed mods with mods used in saved presets and outputs IDs of unused mods in the console and in a CSV file
+# ArmA3-preset-analyzer
+A tool that compares installed mods for ArmA 3 with mods used in saved presets and outputs IDs of unused mods in the console and in a CSV file.
 The Mod-IDs can be used to find the Steam Workshop site via the link 
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=%copyIDhere%
