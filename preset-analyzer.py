@@ -70,6 +70,9 @@ for entry in workshop:
 unused_mods_ids = list(set(workshop_id).difference(unique_ids_preset))
 #path to output file on the desktop of the user
 print('Creating file unused-mods.csv....')
+print('There are ' + str(len(unused_mods_ids)) + ' unused mods installed')
+print('IDs of the unused mods:')
+print(print('\n'.join('{}: {}'.format(*k) for k in enumerate(unused_mods_ids))))
 desktop_path = os.getenv('USERPROFILE') + '\\Desktop\\unused-mods.csv'
 # open csv file in write mode
 with open(desktop_path, 'w') as f:
