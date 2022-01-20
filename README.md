@@ -10,11 +10,15 @@ Sadly, an automatic search in the Steam Workshop is way to much effort for this 
 
 If you want to continue and improve my code, feel free to do so, but please follow and respect the condittions of the GNU GPL v3 license.
 
+Usage is on your own risk and only recommended if you know what you're doing.
+
 ------------------------------------------------------------------------------------------------
 
 Usage: 
 
 python.exe preset-analyzer.py X:\Path\to\steamapps\workshop
+
+Usage is on your own risk and only recommended if you know what you're doing.
 
 ------------------------------------------------------------------------------------------------
 
